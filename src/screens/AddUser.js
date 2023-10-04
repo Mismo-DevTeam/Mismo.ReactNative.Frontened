@@ -26,7 +26,7 @@ const AddUser = () => {
           if (results.rowsAffected > 0) {
             Alert.alert(
               'Success',
-              'You are Registered Successfully',
+              'You are Registered Successfull',
               [
                 {
                   text: 'Ok',
